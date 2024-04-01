@@ -11,3 +11,7 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.gjs-block svg {
+    height: 50px;
+    width: 30px;
+}
